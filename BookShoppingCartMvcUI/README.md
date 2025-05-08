@@ -50,7 +50,5 @@
 10.Admin Dashboard
 
 ![Admin Dashboard](./screenshots/10%20admin%20dashboard.jpg)
-=======
->>>>>>> 08c163fc368e0676d367b9a5e4868b010233784f
 
 
